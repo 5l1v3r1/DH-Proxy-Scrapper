@@ -1,0 +1,13 @@
+F:\sharyer\project\proxy scraper\obj\Debug\proxy_scraper.Form1.resources
+F:\sharyer\project\proxy scraper\obj\Debug\proxy scraper.csproj.GenerateResource.cache
+F:\sharyer\project\proxy scraper\obj\Debug\proxy scraper.csproj.CoreCompileInputs.cache
+F:\sharyer\project\proxy scraper\obj\Debug\proxy_scraper.Form1.aa-DJ.resources
+F:\sharyer\project\proxy scraper\obj\Debug\proxy_scraper.mBox1.resources
+F:\sharyer\project\proxy scraper\bin\Debug\DH Proxy Scraper.exe.config
+F:\sharyer\project\proxy scraper\bin\Debug\DH Proxy Scraper.exe
+F:\sharyer\project\proxy scraper\bin\Debug\DH Proxy Scraper.pdb
+F:\sharyer\project\proxy scraper\bin\Debug\aa-DJ\DH Proxy Scraper.resources.dll
+F:\sharyer\project\proxy scraper\obj\Debug\dh_proxy_scraper.Properties.Resources.resources
+F:\sharyer\project\proxy scraper\obj\Debug\aa-DJ\DH Proxy Scraper.resources.dll
+F:\sharyer\project\proxy scraper\obj\Debug\DH Proxy Scraper.exe
+F:\sharyer\project\proxy scraper\obj\Debug\DH Proxy Scraper.pdb
